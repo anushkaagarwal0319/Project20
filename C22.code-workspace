@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Class Codes- WhiteHat\\C20- Designing Algorithms"
+		},
+		{
+			"path": "..\\..\\Class Codes- WhiteHat\\C21- Creating Libraries"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Class Codes- WhiteHat\\C22- Physics Engine"
+		},
+		{
+			"path": "..\\Project 22"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C20- Designing Algorithms"
+	}
+}
